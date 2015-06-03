@@ -1,0 +1,60 @@
+/* line 1, /Users/Asmar/Desktop/middleman_projects/wea/source/stylesheets/all.css.scss */
+body {
+  background-color: #009EA6;
+  color: #fff; }
+
+/* line 6, /Users/Asmar/Desktop/middleman_projects/wea/source/stylesheets/all.css.scss */
+.title {
+  font-size: 300%; }
+
+/* line 10, /Users/Asmar/Desktop/middleman_projects/wea/source/stylesheets/all.css.scss */
+.left {
+  width: 50%;
+  height: 100%;
+  float: left;
+  text-align: left;
+  padding-left: 10%;
+  margin-top: 15%; }
+
+/* line 19, /Users/Asmar/Desktop/middleman_projects/wea/source/stylesheets/all.css.scss */
+.left-resume {
+  width: 50%;
+  height: 100%;
+  float: left;
+  text-align: left;
+  padding-left: 10%;
+  margin-top: 3%; }
+
+/* line 28, /Users/Asmar/Desktop/middleman_projects/wea/source/stylesheets/all.css.scss */
+.right {
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 30%;
+  float: right;
+  background-color: #006166;
+  text-align: center;
+  padding-top: 22%;
+  padding-bottom: 100%; }
+
+/* line 39, /Users/Asmar/Desktop/middleman_projects/wea/source/stylesheets/all.css.scss */
+div.right a {
+  color: #CBDF90;
+  text-decoration: none;
+  cursor: auto; }
+
+/* line 46, /Users/Asmar/Desktop/middleman_projects/wea/source/stylesheets/all.css.scss */
+div.left a {
+  color: #fff;
+  text-decoration: none;
+  cursor: auto; }
+
+/* line 52, /Users/Asmar/Desktop/middleman_projects/wea/source/stylesheets/all.css.scss */
+.oct {
+  height: 65px;
+  width: 65px;
+  padding-bottom: -5px; }
+
+/* line 58, /Users/Asmar/Desktop/middleman_projects/wea/source/stylesheets/all.css.scss */
+.resume {
+  height: 100%;
+  width: 100%; }
